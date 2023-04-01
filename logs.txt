@@ -1,0 +1,17 @@
+commit 8e06b0843693b823f24630ede79738bbac6983bd (HEAD -> bug3, origin/bug3)
+Author: Toni Hristovski <hristovskitoni0217@gmail.com>
+Date:   Thu Mar 30 15:31:06 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit bffc375c69700467755895cc1db349896402c411
+Author: Toni Hristovski <hristovskitoni0217@gmail.com>
+Date:   Thu Mar 30 15:14:12 2023 +0200
+
+    Add java class
+
+commit f79a71e585a640092970e6625f513360a0ef3251
+Author: Toni Hristovski <hristovskitoni0217@gmail.com>
+Date:   Thu Mar 30 15:10:55 2023 +0200
+
+    Initial commit
